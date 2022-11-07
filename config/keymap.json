@@ -22,11 +22,11 @@
        "&kp LSHFT",         "&kp SEMI",     "&kp Q",     "&kp J",     "&kp K",    "&kp X",             "&none",     "&none",  "&kp HOME",      "&none",        "&none",     "&kp PG_UP",           "&none",      "&none",    "&kp B", "&kp KP_N1", "&kp KP_N2", "&kp KP_N3", "&kp KP_ENTER", "&kp RSHFT",
            "&mo 2",         "&kp LGUI",  "&kp LEFT", "&kp RIGHT", "&kp EQUAL", "&kp BSPC",           "&kp DEL",   "&kp END", "&kp PG_DN",  "&kp ENTER",    "&kp KP_N0",      "&kp LBKT",       "&kp KP_N0", "&kp KP_DOT", "&kp RBKT",     "&mo 2"
     ], [
-        "&kp F11", "&kp F1",   "&kp F2",  "&kp F3", "&kp F4", "&kp F5",           "&tog 1",  "&mo 3", "&kp F6", "&kp F7", "&kp F8", "&kp F9",   "&kp F10",   "&kp F12",
-         "&trans", "&trans",   "&trans",  "&trans", "&trans", "&trans",            "&none",  "&none", "&trans", "&trans", "&trans", "&trans",    "&trans",    "&trans",
-       "&kp CAPS", "&trans",   "&trans",  "&trans", "&trans", "&trans",            "&none", "&trans", "&trans",                     "&trans",    "&trans",     "&none", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-         "&trans", "&trans",   "&trans",  "&trans", "&trans", "&trans",            "&none",  "&none", "&trans",  "&none",  "&none", "&trans",     "&none",     "&none", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-         "&trans", "&trans", "&kp HOME", "&kp END", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp PG_UP", "&kp PG_DN", "&trans", "&trans"
+        "&kp F11", "&kp F1",   "&kp F2",  "&kp F3", "&kp F4",         "&kp F5",           "&tog 1",  "&mo 3", "&kp F6", "&kp F7",         "&kp F8", "&kp F9",   "&kp F10",   "&kp F12",
+         "&trans", "&trans",   "&trans",  "&trans", "&trans",         "&trans",            "&none",  "&none", "&trans", "&trans",         "&trans", "&trans",    "&trans",    "&trans",
+       "&kp CAPS", "&trans",   "&trans",  "&trans", "&trans",         "&trans",            "&none", "&trans", "&trans",                             "&trans",    "&trans",     "&none", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+         "&trans", "&trans",   "&trans",  "&trans", "&trans",         "&trans",            "&none",  "&none", "&trans",  "&none",          "&none", "&trans",     "&none",     "&none", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
+         "&trans", "&trans", "&kp HOME", "&kp END", "&trans", "&macro_maclock",           "&trans", "&trans", "&trans", "&trans", "&macro_winlock", "&trans", "&kp PG_UP", "&kp PG_DN", "&trans", "&trans"
     ], [
         "&none", "&bt BT_SEL 0", "&bt BT_SEL 1", "&bt BT_SEL 2", "&bt BT_SEL 3",    "&bt BT_SEL 4",                            "&none",      "&trans", "&bt BT_SEL 0", "&bt BT_SEL 1",    "&bt BT_SEL 2", "&bt BT_SEL 3", "&bt BT_SEL 4",                  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",           "&none",                      "&bootloader", "&bootloader",        "&none",        "&none",           "&none",        "&none",        "&none",                  "&none",
