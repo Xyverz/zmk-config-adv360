@@ -53,7 +53,7 @@
    &trans  &trans      &trans        &trans        &trans          &trans            &bootloader  &bootloader  &trans  &trans          &trans     &trans     &trans   &trans
  &kp CAPS  &trans  &kp C_MUTE  &kp C_VOL_DN  &kp C_VOL_UP          &trans                  &none       &trans  &trans                             &trans     &trans    &none  &trans  &trans  &trans  &trans  &trans  &trans
    &trans  &trans  &kp C_PREV      &kp C_PP    &kp C_NEXT          &trans                  &none        &none  &trans   &none           &none     &trans      &none    &none  &trans  &trans  &trans  &trans  &trans  &trans
-   &trans  &trans      &trans      &kp HOME       &kp END  &macro_maclock                 &trans       &trans  &trans  &trans  &macro_winlock  &kp PG_UP  &kp PG_DN   &trans  &trans  &trans
+   &trans  &trans      &trans      &kp HOME       &kp END   &kp LC(LG(B))                 &trans       &trans  &trans  &trans       &kp LG(L)  &kp PG_UP  &kp PG_DN   &trans  &trans  &trans
             >;
         };
 
